@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'clear_sansregular';
+    src: url('EOT/ClearSans-Regular.eot');
+    src: url('EOT/ClearSans-Regular.eot?#iefix') format('embedded-opentype'),
+         
+         url('WOFF/ClearSans-Regular.woff') format('woff'),
+         url('TTF/ClearSans-Regular.ttf') format('truetype'),
+         url('SVG/ClearSans-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'clear_sansbold';
+    src: url('EOT/ClearSans-Bold.eot');
+    src: url('EOT/ClearSans-Bold.eot?#iefix') format('embedded-opentype'),
+         
+         url('WOFF/ClearSans-Bold.woff') format('woff'),
+         url('TTF/ClearSans-Bold.ttf') format('truetype'),
+         url('SVG/ClearSans-Bold.svg') format('svg');
+    font-weight: 900;
+    font-style: bold;
+}
+
+@font-face {
+    font-family: 'clear_medium';
+    src: url('EOT/ClearSans-Medium.eot');
+    src: url('EOT/ClearSans-Medium.eot?#iefix') format('embedded-opentype'),
+         
+         url('WOFF/ClearSans-Medium.woff') format('woff'),
+         url('TTF/ClearSans-Medium.ttf') format('truetype'),
+         url('SVG/ClearSans-Medium.svg') format('svg');
+}
+
